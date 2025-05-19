@@ -4,6 +4,7 @@
 
 > 🚀 After signing up, you'll receive a confirmation email. Please verify your email before logging in to access the app.
 
+> 🚀 Reset Password page is in production currently. 
 ---
 
 ## ✨ Features
