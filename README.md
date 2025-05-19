@@ -34,10 +34,10 @@ A modern note-taking and productivity web app built with Vite, React, TypeScript
 git clone <YOUR_GIT_URL>
 cd scholar-zen-space-main
 npm install
-
-Development
+```
+### Development
 ```bash
 npm run dev
-
+```
 Open http://localhost:5173 to view the app in your browser.
 
