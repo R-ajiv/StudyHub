@@ -1,40 +1,49 @@
-# StudyHub
+# 📚 StudyHub
 
-A modern note-taking and productivity web app built with Vite, React, TypeScript, Tailwind CSS, and shadcn-ui.
+**StudyHub** is a modern note-taking and productivity web application built with **Vite**, **React**, **TypeScript**, **Tailwind CSS**, and **shadcn-ui**.
+
+> 🚀 After signing up, you'll receive a confirmation email. Please verify your email before logging in to access the app.
+
+---
 
 ## ✨ Features
 
-- 📝 Create, edit, and manage notes with a clean UI
-- 🔒 Authentication and user management
-- 📱 Responsive design for mobile and desktop
-- 🎨 *Light and dark mode support (currently only dark mode is available)
-- ⚡ Fast performance with Vite
-- 🧩 Modular component structure
-- ☁️ Supabase integration (see `supabase/config.toml`)
+- 📝 Create, edit, and manage notes with a clean and intuitive interface  
+- 🔒 Secure authentication and user management  
+- 📱 Responsive design for both mobile and desktop  
+- 🌗 Light and dark mode support *(currently only dark mode available)*  
+- ⚡ Lightning-fast development with Vite  
+- 🧩 Modular and reusable component structure  
+- ☁️ Supabase backend integration for real-time data sync
 
-## 🚀 Technologies Used
+---
 
-- [Vite](https://vitejs.dev/)
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [shadcn-ui](https://ui.shadcn.com/)
-- [Supabase](https://supabase.com/)
+## 🚀 Tech Stack
+
+- [Vite](https://vitejs.dev/) – Fast development bundler  
+- [React](https://react.dev/) – Declarative UI library  
+- [TypeScript](https://www.typescriptlang.org/) – Typed JavaScript  
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS  
+- [shadcn-ui](https://ui.shadcn.com/) – Beautiful component library  
+- [Supabase](https://supabase.com/) – Open-source Firebase alternative
+
+---
 
 ## 🛠️ Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 
-- [Node.js](https://nodejs.org/) (v16+ recommended)
-- [npm](https://www.npmjs.com/) or [bun](https://bun.sh/)
+Make sure you have the following installed:
 
-### Installation
+- [Node.js](https://nodejs.org/) (v16 or newer recommended)  
+- [npm](https://www.npmjs.com/) or [Bun](https://bun.sh/)
 
-```sh
+### 📦 Installation
+
+```bash
 git clone <YOUR_GIT_URL>
 cd StudyHub-main
 npm install
-```
 ### Development
 ```bash
 npm run dev
