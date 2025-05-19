@@ -32,7 +32,7 @@ A modern note-taking and productivity web app built with Vite, React, TypeScript
 
 ```sh
 git clone <YOUR_GIT_URL>
-cd scholar-zen-space-main
+cd StudyHub-main
 npm install
 ```
 ### Development
