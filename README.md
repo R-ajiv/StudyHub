@@ -7,7 +7,6 @@
 > 🚀 Reset Password page is in production currently. 
 ---
 
-
 ## ✨ Features
 
 - 📝 Create, edit, and manage notes with a clean and intuitive interface  
